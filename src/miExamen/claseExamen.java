@@ -5,16 +5,20 @@
 package miExamen;
 
 /**
- *
+ * <h1>Entornos de desarrollo UT3</h1>
+ * @since 23/02/2024
+ * @version Versión: 1.0.0
  * @author Álvaro Zarauza Galindo
+ */
+
+/**
+ * Esta clase sirve para realizar el examen de la UT3 del módulo Entornos de
+Desarrollo
  */
 public class claseExamen {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+    System.out.println("Estoy haciendo el examen de la UT3");
     }
     
 }
